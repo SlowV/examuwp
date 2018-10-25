@@ -8,7 +8,6 @@ namespace UWP_Exam.Entity
 {
     class ItemCombobox
     {
-        private string name { get; set; }
-        private string content { get; set; }
+        public string name { get; set; }
     }
 }

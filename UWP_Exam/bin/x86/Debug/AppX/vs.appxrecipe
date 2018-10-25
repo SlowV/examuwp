@@ -31,13 +31,13 @@
     <AppXManifest Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-25T12:40:04.869</Modified>
+      <Modified>2018-10-25T12:57:43.704</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\UWP_Exam.exe">
       <PackagePath>entrypoint\UWP_Exam.exe</PackagePath>
-      <Modified>2018-10-25T12:40:04.311</Modified>
+      <Modified>2018-10-25T12:57:42.983</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.7\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -735,23 +735,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\UWP_Exam.xr.xml">
       <PackagePath>UWP_Exam.xr.xml</PackagePath>
-      <Modified>2018-10-25T12:37:18.549</Modified>
+      <Modified>2018-10-25T12:57:42.658</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2018-10-25T12:40:04.073</Modified>
+      <Modified>2018-10-25T12:57:42.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2018-10-25T12:40:04.073</Modified>
+      <Modified>2018-10-25T12:57:42.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\Views\Add.xbf">
       <PackagePath>Views\Add.xbf</PackagePath>
-      <Modified>2018-10-25T12:40:04.073</Modified>
+      <Modified>2018-10-25T12:57:42.667</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\Views\View.xbf">
       <PackagePath>Views\View.xbf</PackagePath>
-      <Modified>2018-10-25T12:40:04.073</Modified>
+      <Modified>2018-10-25T12:57:42.668</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -760,11 +760,11 @@
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-10-25T12:11:45.462</Modified>
+      <Modified>2018-10-25T12:54:00.451</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="d:\document\visual studio 2017\Projects\UWP_Exam\UWP_Exam\bin\x86\Debug\Core\UWP_Exam.exe">
       <PackagePath>UWP_Exam.exe</PackagePath>
-      <Modified>2018-10-25T12:40:04.862</Modified>
+      <Modified>2018-10-25T12:57:43.697</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

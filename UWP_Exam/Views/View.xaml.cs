@@ -15,6 +15,7 @@ using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Navigation;
+using UWP_Exam.Entity;
 
 // The Blank Page item template is documented at https://go.microsoft.com/fwlink/?LinkId=234238
 
@@ -25,7 +26,7 @@ namespace UWP_Exam.Views
     /// </summary>
     public sealed partial class View : Page
     {
-        ObservableCollection<String> fonts = new ObservableCollection<String>();
+        ObservableCollection<ItemCombobox> fonts = new ObservableCollection<ItemCombobox>();
         public View()
         {
             this.InitializeComponent();
@@ -39,7 +40,7 @@ namespace UWP_Exam.Views
             var fileList = await appInstalledFolder.GetFilesAsync();
             foreach (StorageFile file in fileList)
             {
-                Debug.WriteLine(file.Name);
+                Combo.Items.Add(file.Name);
             }
         }
     }
